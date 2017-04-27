@@ -4,5 +4,5 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
-                 [buddy/buddy-auth "1.3.0"]]
+                 [buddy/buddy-sign "1.5.0"]]
   :main buddy-rs256-issue.core)

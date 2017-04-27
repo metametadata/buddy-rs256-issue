@@ -1,6 +1,13 @@
 # buddy-rs256-issue
 
-Demonstrates issue with usigning using `rs256` algo in `buddy-sign` library.
+Demonstrates issue with unsigning using `rs256` algo in `buddy-sign` library.
+
+Just in case:
+
+```
+ᐅ lein version
+Leiningen 2.7.1 on Java 1.8.0_73 Java HotSpot(TM) 64-Bit Server VM
+```
 
 Run the application:
 
